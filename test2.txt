@@ -1,8 +1,0 @@
-hello2!
-Hi
-service change
-local change
-
-test change
-Hello
-hi
