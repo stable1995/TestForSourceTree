@@ -1,4 +1,2 @@
 this is a test change
 this is a new change
-this is service change
-This is a local change
